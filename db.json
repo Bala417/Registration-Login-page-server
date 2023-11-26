@@ -1,0 +1,26 @@
+{
+  "RegisteredUser": [
+    {
+      "firstName": "Bala",
+      "lastName": "",
+      "dob": "",
+      "email": "Balak@gmail.com",
+      "gender": "",
+      "mobile": "",
+      "password": "1245",
+      "confirmPassword": "1245",
+      "id": 1
+    },
+    {
+      "firstName": "demo",
+      "lastName": "",
+      "dob": "",
+      "email": "demo@gmail.com",
+      "gender": "",
+      "mobile": "",
+      "password": "demo",
+      "confirmPassword": "demo",
+      "id": 2
+    }
+  ]
+}
