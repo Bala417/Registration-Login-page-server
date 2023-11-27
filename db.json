@@ -21,6 +21,18 @@
       "password": "demo",
       "confirmPassword": "demo",
       "id": 2
+    },
+    {
+        "firstName": "demo",
+      "lastName": "",
+      "dob": "",
+      "email": " demo@g.com",
+      "gender": "",
+      "mobile": "",
+      "password": "demo",
+      "confirmPassword": "demo",
+      "id": 3
+     
     }
   ]
 }
